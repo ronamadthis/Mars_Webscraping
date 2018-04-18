@@ -1,1 +1,2 @@
 # Mars_Webscraping
+Initial webscraping from NASA Mars News Site was done using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.Latest news title and featured Mars space image are displayed. Latest Mars weather tweet as well as Mars Facts Table are displayed too. High resolution images for each of Mar's hemispheres from USGS Astrogeology site were visited. MongoDB with Flask templating to create a new HTML page was used to display all of the information mentioned above.
